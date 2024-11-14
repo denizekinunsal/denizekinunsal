@@ -33,10 +33,9 @@ I'm a Computer Programming graduate from Celal Bayar University, passionate abou
 - 🎵 Synchronized visuals and audio effects
 - ✨ Optimized performance using Python's data processing
 
-
 ## 📊 GitHub Stats & Top Languages
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=denizekinunsal&show_icons=true&theme=pink&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizekinunsal&layout=compact&langs_count=7&theme=pink"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=denizekinunsal&show_icons=true&theme=radical&bg_color=FFF0F5&title_color=FF69B4&icon_color=FFB6C1&text_color=FF69B4&border_color=FFB6C1&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizekinunsal&layout=compact&langs_count=7&theme=radical&bg_color=FFF0F5&title_color=FF69B4&text_color=FF69B4&border_color=FFB6C1"/>
 
 ## 🌸 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-ekin-%C3%BCnsal-793417299/)
