@@ -40,6 +40,6 @@ I'm a Computer Programming graduate from Celal Bayar University, passionate abou
 ## 🌈 Languages
 - 🎀 Turkish (Native)
 - 💫 English (C2 Proficiency)
-
+- 🌺 German (A1 Proficiency)
 ---
 ✨ From [Deniz Ekin Ünsal](https://github.com/denizekinunsal)
