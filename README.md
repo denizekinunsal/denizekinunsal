@@ -34,7 +34,7 @@ I'm a Computer Programming graduate from Celal Bayar University, passionate abou
 - Optimized performance using Python's data processing
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/furkan-detseli/](https://www.linkedin.com/in/deniz-ekin-%C3%BCnsal-793417299/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-ekin-%C3%BCnsal-793417299/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:furkan_detseli@hotmail.com)
 
 ## 🌐 Languages
