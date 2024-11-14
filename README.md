@@ -1,7 +1,7 @@
 # Hi there! I'm Deniz Ekin Ünsal 🌸
 
 ## 👩‍💻 About Me
-I'm a Computer Programming graduate from Celal Bayar University, passionate about software development. I've been working on various web and mobile development projects to improve my skills and create user-friendly applications. ✨
+I'm currently studying Management Information Systems at Alparslan Türkeş Science and Technology University. I've developed a game using Python and I'm passionate about expanding my programming knowledge and creating user-friendly applications. ✨ As a beginner in the software development world, I'm excited to learn new technologies and improve my skills! 🌟
 
 ### 🎀 Current Focus
 - 🌟 Working on Python project
